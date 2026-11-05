@@ -109,8 +109,7 @@ The main files are organised roughly like this:
 │           ├── g1_29dof_inspire_fixed.xml
 │           └── meshes/
 └── results/
-    └── images/
-        └── hand_retargeting_comparison.png
+    └── hand_retargeting_comparison.png
 ```
 
 The scene XML needs to be kept together with the robot model and the mesh files it references. If your local filenames or folders differ, update the scene path used when launching the replay.
